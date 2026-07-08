@@ -1,0 +1,11 @@
+# Caches
+.ipynb_checkpoints/
+__pycache__/
+
+# IDEs
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
